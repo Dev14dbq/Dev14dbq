@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on web development, automation, and Telegram API projects.  
 - 📫 How to reach me: Telegram (@Dev14dbq).  
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I’m in 7th grade and already developing a powerful tool for chatbot automation!  
+- ⚡ Fun fact: I’m in 8th grade and already developing a powerful tool for chatbot automation!  
