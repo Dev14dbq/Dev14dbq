@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @Dev14dbq (Gleb)  
-- 👀 I’m interested in programming, automation, and web development. I’m building **Formify** — a system for creating chatbot logic using an intuitive node-based editor.  
-- 🌱 I’m currently learning Node.js, MySQL, and working with **React Flow** to build node-based interfaces.  
-- 💞️ I’m looking to collaborate on web development, automation, and Telegram API projects.  
-- 📫 How to reach me: Telegram (@Dev14dbq).  
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I’m in 8th grade and already developing a powerful tool for chatbot automation!  
+
